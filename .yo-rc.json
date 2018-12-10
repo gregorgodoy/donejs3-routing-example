@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "\\\"Goyo Godoy\\\"",
+      "authorEmail": "\\\"gregorgodoy@gmail.com\\\"",
+      "authorUrl": "https://donejs.com"
+    }
+  }
+}
